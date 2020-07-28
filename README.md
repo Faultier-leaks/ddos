@@ -1,0 +1,2 @@
+# ddos
+DdoS Script Python
